@@ -1,4 +1,3 @@
-
 import "./globals.css";
 import { Bricolage_Grotesque, Manrope } from "next/font/google";
 import { site } from "../lib/data";
@@ -37,6 +36,11 @@ export const metadata = {
     "Pakistan",
   ],
   alternates: { canonical: "/" },
+  icons: {
+    icon: "/icon.png?v=2",
+    shortcut: "/icon.png?v=2",
+    apple: "/icon.png?v=2",
+  },
   openGraph: {
     title,
     description,
