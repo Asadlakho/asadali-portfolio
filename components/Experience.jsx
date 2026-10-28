@@ -126,7 +126,7 @@ const IMAGE_CERTIFICATES = [
     title: "AI Full Stack Developer",
     issuer: "Professional Learning",
     category: "Development",
-    image: "/certificates/professional-developer.png",
+    image: "/certificates/Professional-developer.png",
     description: "Professional credential issued by Professional Learning.",
     status: "Certified",
     featured: true,
